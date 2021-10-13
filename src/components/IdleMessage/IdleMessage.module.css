@@ -1,0 +1,8 @@
+.idle {
+    margin:0 auto;
+    padding:20px;
+    background-color: rgb(146, 216, 128);
+    font-size: 36px;
+    font-weight:700;
+    border-radius: 15px;
+}
